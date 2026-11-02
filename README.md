@@ -1,5 +1,3 @@
----
-
 ## 📚 Project Documentation
 
 | Document | Link |
@@ -13,5 +11,3 @@
 | Testing Checklist | [View Testing Checklist](Testing/Testing_Checklist.md) |
 | ThingSpeak Setup | [View Cloud Setup](Cloud/ThingSpeak_Setup.md) |
 | ESP32 Source Code | [View Arduino Code](Code/health_monitoring.ino) |
-
----
